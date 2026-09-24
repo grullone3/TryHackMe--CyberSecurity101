@@ -34,7 +34,7 @@ progression through THM CyberSecurity101 course
 - [x] Networking Concepts
 - [x] Networking Essentials
 - [x] Networking Core Protocols
-- [ ] Networking Secure Protocols
+- [x] Networking Secure Protocols
 - [ ] Wireshark: The Basics
 - [ ] Tcpdump: The Basics
 - [ ] Nmap: The Basics
