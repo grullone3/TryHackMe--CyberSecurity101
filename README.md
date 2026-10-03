@@ -35,13 +35,13 @@ progression through THM CyberSecurity101 course
 - [x] Networking Essentials
 - [x] Networking Core Protocols
 - [x] Networking Secure Protocols
-- [ ] Wireshark: The Basics
-- [ ] Tcpdump: The Basics
-- [ ] Nmap: The Basics
+- [x] Wireshark: The Basics
+- [x] Tcpdump: The Basics
+- [x] Nmap: The Basics
 
 ### 6. Cryptography
-- [ ] Cryptography Basics
-- [ ] Public Key Cryptography Basics
+- [x] Cryptography Basics
+- [x] Public Key Cryptography Basics
 - [ ] Hashing Basics
 - [ ] John the Ripper: The Basics
 
