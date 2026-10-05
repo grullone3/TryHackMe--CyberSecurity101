@@ -42,8 +42,8 @@ progression through THM CyberSecurity101 course
 ### 6. Cryptography
 - [x] Cryptography Basics
 - [x] Public Key Cryptography Basics
-- [ ] Hashing Basics
-- [ ] John the Ripper: The Basics
+- [x] Hashing Basics
+- [x] John the Ripper: The Basics
 
 ### 7. Exploitation Basics
 - [ ] Moniker Link (CVE-2024-21413)
