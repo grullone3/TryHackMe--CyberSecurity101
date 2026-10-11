@@ -7,7 +7,7 @@ progression through THM CyberSecurity101 course
 
 ## Progress
 
-**Status:** 14 path rooms completed, plus 2 challenge rooms
+**Status:** 29 path rooms completed, plus 2 challenge rooms
 
 ### 1. Start Your Cyber Security Journey
 - [x] Offensive Security Intro
