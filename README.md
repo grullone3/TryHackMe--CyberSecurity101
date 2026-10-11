@@ -46,11 +46,11 @@ progression through THM CyberSecurity101 course
 - [x] John the Ripper: The Basics
 
 ### 7. Exploitation Basics
-- [ ] Moniker Link (CVE-2024-21413)
-- [ ] Metasploit: Introduction
-- [ ] Metasploit: Exploitation
-- [ ] Metasploit: Meterpreter
-- [ ] Blue
+- [x] Moniker Link (CVE-2024-21413)
+- [x] Metasploit: Introduction
+- [x] Metasploit: Exploitation
+- [x] Metasploit: Meterpreter
+- [x] Blue
 
 ### 8. Web Hacking
 - [ ] Web Application Basics
