@@ -53,8 +53,8 @@ progression through THM CyberSecurity101 course
 - [x] Blue
 
 ### 8. Web Hacking
-- [ ] Web Application Basics
-- [ ] JavaScript Essentials
+- [x] Web Application Basics
+- [x] JavaScript Essentials
 - [ ] SQL Fundamentals
 - [ ] Burp Suite: The Basics
 
