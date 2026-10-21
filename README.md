@@ -55,11 +55,11 @@ progression through THM CyberSecurity101 course
 ### 8. Web Hacking
 - [x] Web Application Basics
 - [x] JavaScript Essentials
-- [ ] SQL Fundamentals
-- [ ] Burp Suite: The Basics
+- [x] SQL Fundamentals
+- [x] Burp Suite: The Basics
 
 ### 9. Offensive Security Tooling
-- [ ] Hydra
+- [x] Hydra
 - [ ] Gobuster: The Basics
 - [ ] Shells Overview
 - [ ] SQLMap: The Basics
