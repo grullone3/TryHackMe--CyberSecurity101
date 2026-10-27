@@ -60,15 +60,15 @@ progression through THM CyberSecurity101 course
 
 ### 9. Offensive Security Tooling
 - [x] Hydra
-- [ ] Gobuster: The Basics
-- [ ] Shells Overview
-- [ ] SQLMap: The Basics
+- [x] Gobuster: The Basics
+- [x] Shells Overview
+- [x] SQLMap: The Basics
 
 ### 10. Defensive Security
-- [ ] SOC Fundamentals
-- [ ] Digital Forensics Fundamentals
-- [ ] Incident Response Fundamentals
-- [ ] Logs Fundamentals
+- [x] SOC Fundamentals
+- [x] Digital Forensics Fundamentals
+- [x] Incident Response Fundamentals
+- [x] Logs Fundamentals
 
 ### 11. Security Solutions
 - [ ] Introduction to SIEM
